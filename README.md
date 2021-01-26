@@ -1,3 +1,3 @@
 # ColorGameProject
 
-https://codepen.io/chandramohan01/pen/RwGXPOZ
+https://codepen.io/chandramohan01/full/RwGXPOZ
